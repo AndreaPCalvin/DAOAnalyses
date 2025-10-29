@@ -18,6 +18,8 @@ Although there are specific explanations in text cell comments in the notebooks,
 - [IndieDAO.ipynb]: Code developed to retrieve and analyze Snapshot proposals of [IndieDAO]([https://](https://www.indie.win/)).
 - [Decentraland.ipynb]: Code developed to retrieve and analyze Snapshot proposals of [Decentraland]([https://](https://decentraland.org/)).
 
+  !!! The code developed to retrieve the data from all the DAO ecosystem can be found here: [DAOs Ecosystem Census]([Decentraland]([https://](https://decentraland.org/))).
+
 ## How to run the notebooks
 We recommend using [JupyterLab](https://jupyter.org/) (local utility) or [GoogleColab](https://colab.google/) (cloud utility) to open and run the notebooks. Please note that if you are working in the cloud, you will need to host and connect the data files to the code via Google Drive. This can be problematic when working with large data files, such as those used in the whole ecosystem of DAOs analysis, because they need to be uploaded each time the session is restarted.
 
