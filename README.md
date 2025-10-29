@@ -2,11 +2,13 @@
 This repository hosts the data and analysis code used to examine governance mechanisms across various DAOs. The analyses quantify key aspects of proposal and voting dynamics, while also delving into specific issues such as the unequal distribution of Voting Power (VP), which is assessed using metrics like the Gini coefficient.
 
 ## Repository layout
+```text
 ├─ notebooks/
 │  ├─ DAOsAtAScale.ipynb 
 │  ├─ IndieDAO.ipynb
 │  └─ Decentraland.ipynb
 └─ README.md
+```
 
 ## Notebook overview
 Although there are specific explanations in text cell comments in the notebooks, the project consists of the following three main analyses.
