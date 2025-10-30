@@ -1,6 +1,11 @@
 # Data analysis in DAOs
 This repository hosts the data and analysis code used to examine governance mechanisms across various DAOs. The analyses quantify key aspects of proposal and voting dynamics, while also delving into specific issues such as the unequal distribution of Voting Power (VP), which is assessed using metrics like the Gini coefficient.
 
+## Academic Context
+This work is part of a doctoral thesis research project at Universidad Complutense de Madrid (UCM), focusing on the empirical analysis of decentralized governance systems.
+
+The collected data and analysis tools support research into DAO participation patterns, governance effectiveness, and cross-platform comparisons.
+
 ## Repository layout
 ```text
 ├─ notebooks/
