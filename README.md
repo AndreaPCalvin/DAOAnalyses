@@ -10,18 +10,18 @@ The collected data and analysis tools support research into DAO participation pa
 ```text
 ├─ notebooks/
 │  ├─ Snapshot Spaces Data Retrieval.ipynb 
+│  ├─ single DAO.ipynb  
 │  ├─ DAOs At A Scale.ipynb 
-│  ├─ IndieDAO.ipynb
-│  └─ singleDAO.ipynb
+│  └─ IndieDAO.ipynb
 └─ README.md
 ```
 
 ## Notebook overview
 Although there are specific explanations in text cell comments in the notebooks, the project consists of the following three main analyses.
 - [Snapshot Spaces Data Retrieval.ipynb]: Code developed to retrieve voting data from any [Snapshot space](https://snapshot.org/#/explore).
+- [singleDAO.ipynb]: Code developed to retrieve and analyze Snapshot proposals of [Decentraland](https://decentraland.org/). The code can be used to analyze any DAO.
 - [DAOsAtAScale.ipynb]: Code developed to perform a quantitative analysis of the whole ecosystem of DAOs.
 - [IndieDAO.ipynb]: Code developed to retrieve and analyze Snapshot proposals of [IndieDAO](https://www.indie.win/). Includes specific code to manage address changes for some voters.
-- [singleDAO.ipynb]: Code developed to retrieve and analyze Snapshot proposals of [Decentraland](https://decentraland.org/). The code can be used to analyze any DAO.
 
   !!! The code developed to retrieve the data from all the DAO ecosystem can be found here: [DAOs Ecosystem Census](https://github.com/Grasia/dao-ecosystem-census).
 
